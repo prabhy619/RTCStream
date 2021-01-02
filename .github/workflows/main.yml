@@ -46,6 +46,3 @@ jobs:
 
         - name: Run linter 👀
           run: npm run lint
-
-        - name: Run Unit Test 👀
-          run: npm run test:unit
